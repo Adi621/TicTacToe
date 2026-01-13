@@ -1,2 +1,2 @@
-# TicTacToi
+# TicTacToe
 TicTacToi Game by python
